@@ -13,7 +13,7 @@
 }
 
 .bg-white10 {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(70, 65, 65, 1);
 }
 
 .bg-purple {
@@ -25,11 +25,11 @@
 }
 
 .bg-halfwhite {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(70, 65, 65,1);
 }
 
 .halfwhite {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
 }
 
 .lightpurple {
@@ -3355,7 +3355,7 @@ h5 {
 }
 
 .btn:hover {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(70, 65, 65,1);
 }
 
 .shadow {
@@ -3390,7 +3390,7 @@ h5 {
 }
 
 .bg-white10 {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(70, 65, 65,1);
 }
 
 .bg-purple {
@@ -3402,11 +3402,11 @@ h5 {
 }
 
 .bg-halfwhite {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(70, 65, 65,1);
 }
 
 .halfwhite {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
 }
 
 .lightpurple {
@@ -3551,27 +3551,27 @@ header .container .menu .search-form input {
 }
 
 header .container .menu .search-form input::-webkit-input-placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
   font-size: 2rem;
 }
 
 header .container .menu .search-form input:-ms-input-placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
   font-size: 2rem;
 }
 
 header .container .menu .search-form input::-ms-input-placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
   font-size: 2rem;
 }
 
 header .container .menu .search-form input::placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
   font-size: 2rem;
 }
 
 header .container .menu .search-form label {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
   font-size: 2rem;
   cursor: pointer;
 }
@@ -3587,7 +3587,7 @@ header .container .menu a {
 }
 
 header .container .menu a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
 }
 
 #bar,
@@ -3598,7 +3598,7 @@ header .container .menu a:hover {
 
 #bar:hover,
 #wallet:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(70, 65, 65,1);
 }
 
 @media screen and (max-width: 1024px) {
@@ -3625,7 +3625,7 @@ header .container .menu a:hover {
     top: 99%;
     right: -100%;
     width: 70%;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(70, 65, 65,1);
     height: 100vh;
     z-index: 99;
     display: -webkit-box;
@@ -3664,7 +3664,7 @@ header .container .menu a:hover {
 .filter {
   font-size: 1.5rem;
   text-align: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(70, 65, 65,1);
   padding: .5rem 0;
   border-radius: 10px;
   cursor: pointer;
@@ -3728,7 +3728,7 @@ header .container .menu a:hover {
 }
 
 .card-creator:hover {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(70, 65, 65,1);
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
 }
@@ -3749,7 +3749,7 @@ header .container .menu a:hover {
 }
 
 .box .title {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid rgba(70, 65, 65,1);
   padding-bottom: 1rem;
 }
 
@@ -3797,7 +3797,7 @@ header .container .menu a:hover {
   transform: scale(1.1);
 }
 .started:hover {
-  background: rgba( 255, 255, 255, 0.1);
+  background: rgba( 70, 65, 65,1);
   border: 1px solid white;
 }
 
@@ -3838,7 +3838,7 @@ footer a:hover {
 .grid-item .content {
   width: 100%;
   padding: 25px 20px 20px;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(70, 65, 65,1);
   backdrop-filter: blur(8px);
   position: absolute;
   bottom: 0;
@@ -3898,7 +3898,7 @@ footer a:hover {
 .grid-item .action-btns button {
   padding: 10px 18px;
   color: #000000;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(70, 65, 65,1);
   border: 1px solid transparent;
   font-size: 12px;
   line-height: 9px;
@@ -3921,7 +3921,7 @@ footer a:hover {
 }
 
 .grid-item .action-btns .view-btn:hover {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(70, 65, 65,1);
   border-color: transparent;
 }
 
