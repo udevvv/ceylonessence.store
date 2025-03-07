@@ -60,7 +60,7 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 10rem;
   font-size: 10px;
-  color: white;
+  color: black;
   background: linear-gradient(113.49deg, #fff6f6 -30.3%, #fff6f6 58.12%);
   font-family: "Poppins", sans-serif;
 }
@@ -3485,7 +3485,7 @@ h5 {
 }
 
 .card:hover {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(70, 65, 65, 1);
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
 }
@@ -3539,14 +3539,14 @@ header .container .menu .search-form {
       -ms-flex-align: center;
           align-items: center;
   border-radius: 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(70, 65, 65,1);
 }
 
 header .container .menu .search-form input {
   width: 100%;
   padding-left: 1rem;
   font-size: 2rem;
-  color: white;
+  color: black;
   background: transparent;
 }
 
@@ -3582,7 +3582,7 @@ header .container .menu .search-form label:hover {
 
 header .container .menu a {
   font-size: 2rem;
-  color: white;
+  color: black;
   padding: 1rem 2rem;
 }
 
