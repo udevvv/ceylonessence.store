@@ -3806,7 +3806,7 @@ footer a {
 }
 
 footer a:hover {
-  color: white;
+  color: black;
 }
 
 .nft-grid {
@@ -3859,7 +3859,7 @@ footer a:hover {
 
 .grid-item .inner-content h2,
 .grid-item .inner-content .eth {
-  color: #000000;
+  color: #ffffff;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   font-weight: 700;
@@ -3869,7 +3869,7 @@ footer a:hover {
 .grid-item .inner-content h2 a,
 .grid-item .inner-content .eth .dollar {
   display: block;
-  color: #000000;
+  color: #ffffff;
   font-family: "Red Hat Display", sans-serif;
   font-size: 13px;
   font-weight: 400;
