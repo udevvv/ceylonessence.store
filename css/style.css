@@ -3762,17 +3762,17 @@ header .container .menu a:hover {
 }
 
 .box.active .title {
-  border-color: white;
+  border-color: black;
 }
 
 .box.active .title h3 {
-  color: white;
+  color: black;
 }
 
 .box.active .title i {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
-  color: white;
+  color: black;
 }
 
 .box.active .answer {
