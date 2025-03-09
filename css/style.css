@@ -3762,17 +3762,17 @@ header .container .menu a:hover {
 }
 
 .box.active .title {
-  border-color: black;
+  border-color: white;
 }
 
 .box.active .title h3 {
-  color: black;
+  color: white;
 }
 
 .box.active .title i {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
-  color: black;
+  color: white;
 }
 
 .box.active .answer {
@@ -3806,7 +3806,7 @@ footer a {
 }
 
 footer a:hover {
-  color: black;
+  color: white;
 }
 
 .nft-grid {
@@ -3859,7 +3859,7 @@ footer a:hover {
 
 .grid-item .inner-content h2,
 .grid-item .inner-content .eth {
-  color: #ffffff;
+  color: #000000;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   font-weight: 700;
@@ -3869,7 +3869,7 @@ footer a:hover {
 .grid-item .inner-content h2 a,
 .grid-item .inner-content .eth .dollar {
   display: block;
-  color: #ffffff;
+  color: #000000;
   font-family: "Red Hat Display", sans-serif;
   font-size: 13px;
   font-weight: 400;
@@ -3897,7 +3897,7 @@ footer a:hover {
 
 .grid-item .action-btns button {
   padding: 10px 18px;
-  color: #ffffff;
+  color: #000000;
   background-color: rgba(70, 65, 65,1);
   border: 1px solid transparent;
   font-size: 12px;
@@ -3912,12 +3912,12 @@ footer a:hover {
 
 .grid-item .action-btns .view-btn {
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #000000;
 }
 
 .grid-item .action-btns .bid-btn:hover {
   background-color: transparent;
-  border-color: #ffffff;
+  border-color: #000000;
 }
 
 .grid-item .action-btns .view-btn:hover {
@@ -3934,7 +3934,7 @@ footer a:hover {
 
 .grid-item .profiles .face {
   width: 30px;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   border-radius: 50%;
   user-select: none;
 }
